@@ -1,0 +1,15 @@
+package hks;
+import System.*;
+public class Comments
+{
+
+  public static void main()
+  {
+    // A Simple Comment
+    /*
+      A multi
+      line comment
+    */
+    Console.WriteLine("Hello World in J#");
+  }
+}
